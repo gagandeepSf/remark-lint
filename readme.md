@@ -12,6 +12,10 @@
 ## gagan <heading>
   
   This is content with the [Install](http://google.com)
+  
+  - This is <content>
+  - b
+  - c
 
 Ensuring the Markdown you (and contributors) write is of great quality will
 provide better rendering in all the different markdown parsers, and makes sure
