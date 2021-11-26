@@ -9,6 +9,10 @@
 
 [**remark**][remark] plugins to lint Markdown.
 
+## gagan <heading>
+  
+  This is content with the <paragraph>
+
 Ensuring the Markdown you (and contributors) write is of great quality will
 provide better rendering in all the different markdown parsers, and makes sure
 less refactoring is needed afterwards.
